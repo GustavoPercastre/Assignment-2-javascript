@@ -1,3 +1,41 @@
+console.log(8 * null);
+
+console.log("5" - 1);
+
+console.log("5" + 1);
+
+console.log("five" * 2);
+
+console.log(false == 0);
+
+console.log(5 > 2 && 6 > 3);
+
+console.log(false == false ? 'equal' : 'not equal');
+
+console.log(true || false );
+
+// From here on is where the assignment 2 begins
+
+console.log("Hello " + "World");
+
+console.log("Hello" + " " + "World");
+
+console.log("Hello \n World");
+
+console.log(3 * 8 + 2);
+
+console.log(5 < 10);
+
+console.log(10 > 5);
+
+console.log("Apples" != "Oranges");
+
+console.log(10 * 10 > 50 && 5 * 5 < 50);
+
+console.log(1 + 2 > 5 || 1 * 10 > 5);
+
+console.log('10' * 5);
+
 // For each of the 10 tasks below, write a console.log(...) statement that satisfies the
 // requirement. Write your code to accomplish the programming task beneath each comment.
 
@@ -30,18 +68,3 @@
 // 1 + 2 is greater than 5 OR 1 * 10 is greater than 5
 
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
-console.log(8 * null);
-
-console.log("5" - 1);
-
-console.log("5" + 1);
-
-console.log("five" * 2);
-
-console.log(false == 0);
-
-console.log(5 > 2 && 6 > 3);
-
-console.log(false == false ? 'equal' : 'not equal');
-
-console.log(true || false );
