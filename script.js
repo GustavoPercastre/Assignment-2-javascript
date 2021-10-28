@@ -30,3 +30,18 @@
 // 1 + 2 is greater than 5 OR 1 * 10 is greater than 5
 
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
+console.log(8 * null);
+
+console.log("5" - 1);
+
+console.log("5" + 1);
+
+console.log("five" * 2);
+
+console.log(false == 0);
+
+console.log(5 > 2 && 6 > 3);
+
+console.log(false == false ? 'equal' : 'not equal');
+
+console.log(true || false );
